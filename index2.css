@@ -1,0 +1,9 @@
+body{
+    
+    justify-content: center;
+   color: wheat;
+    background-color: black;
+}
+.container{
+     max-width: 500px; max-height: 0px 
+    }
