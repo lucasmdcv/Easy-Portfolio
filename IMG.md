@@ -1,3 +1,0 @@
-#### titulo qualquer
-
-texto blabla
