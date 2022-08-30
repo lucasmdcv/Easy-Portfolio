@@ -1,4 +1,4 @@
-# Easy-Portifolio
+# Easy-Portfólio
 site 
 
 MOSTRANDO UM POUCO DE CSS E HTML
