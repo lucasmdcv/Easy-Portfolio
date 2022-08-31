@@ -2,7 +2,7 @@
 site 
 
 MOSTRANDO UM POUCO DE CSS E HTML
-PORTIFÓLIO
+PORTFÓLIO
 
 ![WhatsApp Image 2022-08-30 at 15 21 57](https://user-images.githubusercontent.com/111598752/187514006-8f06226b-908a-493f-948b-c216f0168587.jpeg)
 
